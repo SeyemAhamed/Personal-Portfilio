@@ -7,7 +7,8 @@
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
       <h2>Services</h2>
-      <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+      <p>
+        If you're looking for web development and design services, here’s a breakdown of the most common types of services that professionals or agencies offer:</p>
     </div><!-- End Section Title -->
 
     <div class="container">
@@ -17,8 +18,9 @@
         <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
           <div class="icon flex-shrink-0"><i class="bi bi-briefcase"></i></div>
           <div>
-            <h4 class="title"><a href="{{url('/service/details')}}" class="stretched-link">Lorem Ipsum</a></h4>
-            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+            <h4 class="title"><a href="{{url('/service/details')}}" class="stretched-link">Web Design</a></h4>
+            <p class="description">Responsive Design: Ensuring the website looks good and works well on all devices (mobile, tablet, desktop).
+              Branding & Identity: Designing logos, color schemes, fonts, and overall aesthetics to match your brand.</p>
           </div>
         </div>
         <!-- End Service Item -->
@@ -26,40 +28,28 @@
         <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
           <div class="icon flex-shrink-0"><i class="bi bi-card-checklist"></i></div>
           <div>
-            <h4 class="title"><a href="service-details.html" class="stretched-link">Dolor Sitema</a></h4>
-            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+            <h4 class="title"><a href="service-details.html" class="stretched-link">Web Development </a></h4>
+            <p class="description">Frontend Development: Coding the user-facing part of the website using HTML, CSS, JavaScript, and frameworks like React, Angular, or Vue.js.
+              Backend Development: Building server-side logic, databases, and APIs using languages like Node.js, Laravel, PHP, etc.
+              Full Stack Development: Combining both frontend and backend development to deliver complete web applications.</p>
           </div>
         </div><!-- End Service Item -->
 
         <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="300">
           <div class="icon flex-shrink-0"><i class="bi bi-bar-chart"></i></div>
           <div>
-            <h4 class="title"><a href="service-details.html" class="stretched-link">Sed ut perspiciatis</a></h4>
-            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+            <h4 class="title"><a href="service-details.html" class="stretched-link">Additional</a></h4>
+            <p class="description">Website Maintenance: Ongoing updates, security patches, performance monitoring, and backups.
+              Performance Optimization: Improving load times, mobile responsiveness, and overall website speed.</p>
           </div>
         </div><!-- End Service Item -->
 
         <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="400">
           <div class="icon flex-shrink-0"><i class="bi bi-binoculars"></i></div>
           <div>
-            <h4 class="title"><a href="service-details.html" class="stretched-link">Magni Dolores</a></h4>
-            <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-          </div>
-        </div><!-- End Service Item -->
-
-        <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="500">
-          <div class="icon flex-shrink-0"><i class="bi bi-brightness-high"></i></div>
-          <div>
-            <h4 class="title"><a href="service-details.html" class="stretched-link">Nemo Enim</a></h4>
-            <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-          </div>
-        </div><!-- End Service Item -->
-
-        <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="600">
-          <div class="icon flex-shrink-0"><i class="bi bi-calendar4-week"></i></div>
-          <div>
-            <h4 class="title"><a href="service-details.html" class="stretched-link">Eiusmod Tempor</a></h4>
-            <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+            <h4 class="title"><a href="service-details.html" class="stretched-link">Technologies and Tools</a></h4>
+            <p class="description">Frameworks: Bootstrap, Tailwind CSS (for design), Django, Ruby on Rails (for backend).Languages: HTML, CSS, JavaScript, Laravel, PHP, etc.</p>
+            
           </div>
         </div><!-- End Service Item -->
 

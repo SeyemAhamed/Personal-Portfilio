@@ -433,7 +433,8 @@
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
       <h2>Services</h2>
-      <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+      <p>
+        If you're looking for web development and design services, here’s a breakdown of the most common types of services that professionals or agencies offer:</p>
     </div><!-- End Section Title -->
 
     <div class="container">
@@ -443,8 +444,9 @@
         <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
           <div class="icon flex-shrink-0"><i class="bi bi-briefcase"></i></div>
           <div>
-            <h4 class="title"><a href="{{url('/service/details')}}" class="stretched-link">Lorem Ipsum</a></h4>
-            <p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
+            <h4 class="title"><a href="{{url('/service/details')}}" class="stretched-link">Web Design</a></h4>
+            <p class="description">Responsive Design: Ensuring the website looks good and works well on all devices (mobile, tablet, desktop).
+              Branding & Identity: Designing logos, color schemes, fonts, and overall aesthetics to match your brand.</p>
           </div>
         </div>
         <!-- End Service Item -->
@@ -452,40 +454,28 @@
         <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="200">
           <div class="icon flex-shrink-0"><i class="bi bi-card-checklist"></i></div>
           <div>
-            <h4 class="title"><a href="service-details.html" class="stretched-link">Dolor Sitema</a></h4>
-            <p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
+            <h4 class="title"><a href="service-details.html" class="stretched-link">Web Development </a></h4>
+            <p class="description">Frontend Development: Coding the user-facing part of the website using HTML, CSS, JavaScript, and frameworks like React, Angular, or Vue.js.
+              Backend Development: Building server-side logic, databases, and APIs using languages like Node.js, Laravel, PHP, etc.
+              Full Stack Development: Combining both frontend and backend development to deliver complete web applications.</p>
           </div>
         </div><!-- End Service Item -->
 
         <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="300">
           <div class="icon flex-shrink-0"><i class="bi bi-bar-chart"></i></div>
           <div>
-            <h4 class="title"><a href="service-details.html" class="stretched-link">Sed ut perspiciatis</a></h4>
-            <p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
+            <h4 class="title"><a href="service-details.html" class="stretched-link">Additional</a></h4>
+            <p class="description">Website Maintenance: Ongoing updates, security patches, performance monitoring, and backups.
+              Performance Optimization: Improving load times, mobile responsiveness, and overall website speed.</p>
           </div>
         </div><!-- End Service Item -->
 
         <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="400">
           <div class="icon flex-shrink-0"><i class="bi bi-binoculars"></i></div>
           <div>
-            <h4 class="title"><a href="service-details.html" class="stretched-link">Magni Dolores</a></h4>
-            <p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
-          </div>
-        </div><!-- End Service Item -->
-
-        <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="500">
-          <div class="icon flex-shrink-0"><i class="bi bi-brightness-high"></i></div>
-          <div>
-            <h4 class="title"><a href="service-details.html" class="stretched-link">Nemo Enim</a></h4>
-            <p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
-          </div>
-        </div><!-- End Service Item -->
-
-        <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="600">
-          <div class="icon flex-shrink-0"><i class="bi bi-calendar4-week"></i></div>
-          <div>
-            <h4 class="title"><a href="service-details.html" class="stretched-link">Eiusmod Tempor</a></h4>
-            <p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
+            <h4 class="title"><a href="service-details.html" class="stretched-link">Technologies and Tools</a></h4>
+            <p class="description">Frameworks: Bootstrap, Tailwind CSS (for design), Django, Ruby on Rails (for backend).Languages: HTML, CSS, JavaScript, Laravel, PHP, etc.</p>
+            
           </div>
         </div><!-- End Service Item -->
 
@@ -500,8 +490,8 @@
 
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
-      <h2>Contact</h2>
-      <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+      <h2>Contact Me</h2>
+      <p>Feel free to reach out! I’m available for inquiries, collaborations, or just a friendly chat.</p>
     </div><!-- End Section Title -->
 
     <div class="container" data-aos="fade-up" data-aos-delay="100">
@@ -515,7 +505,7 @@
               <i class="bi bi-geo-alt flex-shrink-0"></i>
               <div>
                 <h3>Address</h3>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>Dhaka, bangladesh</p>
               </div>
             </div><!-- End Info Item -->
 
@@ -523,7 +513,7 @@
               <i class="bi bi-telephone flex-shrink-0"></i>
               <div>
                 <h3>Call Us</h3>
-                <p>+1 5589 55488 55</p>
+                <p>+8801402313786</p>
               </div>
             </div><!-- End Info Item -->
 
@@ -531,11 +521,12 @@
               <i class="bi bi-envelope flex-shrink-0"></i>
               <div>
                 <h3>Email Us</h3>
-                <p>info@example.com</p>
+                <p>seyamjh@gmail.com</p>
               </div>
             </div><!-- End Info Item -->
 
-            <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d48389.78314118045!2d-74.006138!3d40.710059!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a22a3bda30d%3A0xb89d1fe6bc499443!2sDowntown%20Conference%20Center!5e0!3m2!1sen!2sus!4v1676961268712!5m2!1sen!2sus" frameborder="0" style="border:0; width: 100%; height: 270px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+            {{-- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d48389.78314118045!2d-74.006138!3d40.710059!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a22a3bda30d%3A0xb89d1fe6bc499443!2sDowntown%20Conference%20Center!5e0!3m2!1sen!2sus!4v1676961268712!5m2!1sen!2sus" frameborder="0" style="border:0; width: 100%; height: 270px;"
+             allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> --}}
           </div>
         </div>
 

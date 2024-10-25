@@ -1,6 +1,8 @@
 <?php
 
+use App\Http\Controllers\Backend\AdminController;
 use App\Http\Controllers\IndexController;
+use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -28,3 +30,9 @@ Route::get('/service/details',[IndexController::class, 'serviceDetails']);
 Route::get('/portfolio/details', [IndexController::class, 'portfolioDetails']);
 
 
+Auth::routes();
+
+Route::get('/admin/login', [AdminController::class, 'login']);
+Route::post('/admin/login-access', [AdminController::class, 'loginCheck']);
+
+Route::get('/admin/panel', [AdminController::class, 'adminPanel']);
